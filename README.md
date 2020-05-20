@@ -1,6 +1,6 @@
 Stack In C
 
-Description of Program: In this PA, I am constructing the data structure called
+Description of Program: I am constructing the data structure called
 stack using the programming language C. Stack follows a particular order in 
 which the operations are performed ("Last In First Out" or 
 "First In Last Out"). In addition, while creating the stack structure, I had
